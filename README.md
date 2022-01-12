@@ -1,2 +1,1 @@
-# apoorvab.com
-Personal Blog
+This is the repo for my personal blog located at [www.apoorvab.com](www.apoorvab.com), well, soon to be anyway.
