@@ -1,0 +1,48 @@
+baseURL = "http://www.apoorvab.com/"
+title = "Apoorva's Notes"
+theme = "hugo-theme-basic"
+languageCode = "en-us"
+
+enableEmoji = false
+
+#googleAnalytics = "UA-XXXXXXXXX-X" # BB (apoorvab) Find an alternative.
+
+copyright = "© 2022 Haphazardly put together by <a href='https://twitter.com/apoorvab_'>Apoorva Bansal</a>."
+description = "A corner of the web hosting the written sputterings of Apoorva."
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+
+[params]
+  twitter = "apoorvab_"
+
+# BB (apoorvab) Not sure what this is about.
+
+#[permalinks]
+#  post = "post/:slug"
+
+[[params.menu]]
+  name = "blog"
+  url = "blog/"
+
+# BB (apoorvab) Projects would go here.
+
+#[[params.menu]]
+#  name = "post series"
+#  url = "series/"
+  
+[[params.menu]]
+  name = "about"
+  url = "about/"
+
+[privacy]
+  [privacy.googleAnalytics]
+    anonymizeIP = true
+    respectDoNotTrack = true
+    useSessionStorage = true
+  [privacy.twitter]
+    enableDNT = true
+  [privacy.youtube]
+    privacyEnhanced = true
