@@ -9,7 +9,7 @@ languageCode = "en-us"
 publishDir ="/docs"
 
 enableEmoji = false
-#googleAnalytics = "UA-XXXXXXXXX-X" # BB (apoorvab) Find an alternative.
+googleAnalytics = " UA-217930037-1"
 
 copyright = "© 2022 Haphazardly put together by <a href='https://twitter.com/apoorvab_'>Apoorva Bansal</a>."
 description = "A corner of the web hosting the written sputterings of Apoorva."
