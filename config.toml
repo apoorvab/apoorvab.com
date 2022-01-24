@@ -2,6 +2,7 @@ baseURL = "http://www.apoorvab.com/"
 title = "Apoorva's Notes"
 theme = "hugo-theme-basic"
 languageCode = "en-us"
+publishDir ="/docs"
 
 enableEmoji = false
 
