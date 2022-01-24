@@ -2,10 +2,13 @@ baseURL = "http://www.apoorvab.com/"
 title = "Apoorva's Notes"
 theme = "hugo-theme-basic"
 languageCode = "en-us"
+
+# NOTE (apoorvab) Need to publish to the /docs directory since that's what GitHub Pages can see besides the root.
+#  This is specified in Settings>Pages under Source.
+
 publishDir ="/docs"
 
 enableEmoji = false
-
 #googleAnalytics = "UA-XXXXXXXXX-X" # BB (apoorvab) Find an alternative.
 
 copyright = "© 2022 Haphazardly put together by <a href='https://twitter.com/apoorvab_'>Apoorva Bansal</a>."
