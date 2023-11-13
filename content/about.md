@@ -7,7 +7,7 @@ Hello, I'm Apoorva - a motorcycle riding video game developer currently working 
 
 I do my best to disprove the following comment from [Alain De Botton](https://www.alaindebotton.com/):
 
-> *Work finally begins when the fear of doing nothing exeeds the fear of doing it badly.*
+> *Work finally begins when the fear of doing nothing exceeds the fear of doing it badly.*
 
 This is my personal website where I host my public musings and projects. Hopefully a compelling personal counterargument to the above.
 
